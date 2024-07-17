@@ -5,7 +5,7 @@ Feel free to either download the code and run it on your machine or follow this 
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/LukasNoe/ukrn_otrp/HEAD)
 
-The survey was open to those based at a UK HE institution which has a UKRN Institutional Lead (https://www.ukrn.org/institutional-leads/) and ran between December 2022 and April 2023. Its purpose is to establish what the level and perception of Open and Transparent Research Practices are at these institutions. The results of this survey will be used to provide insight into the open research practices that are used and recognised/rewarded across disciplines and institutions. The results will also help identify training gaps. We are interested in gathering responses about both Quantitative AND Qualitative research practices. Additionally, we are interested in responses from both those who already use open research practices, and those that do not.
+The survey was open to rsearch-active staff based at a UK HE institution which has a UKRN Institutional Lead (https://www.ukrn.org/institutional-leads/) and ran between December 2022 and April 2023. Its purpose is to establish what the level and perception of Open and Transparent Research Practices are at these institutions. The results of this survey will be used to provide insight into the open research practices that are used and recognised/rewarded across disciplines and institutions. The results will also help identify training gaps. We are interested in gathering responses about both Quantitative AND Qualitative research practices. Additionally, we are interested in responses from both those who already use open research practices, and those that do not.
 
 Definition of files
 
