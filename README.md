@@ -19,4 +19,4 @@ The survey focuses on 14 core topics in the research lifecycle. Definitions for 
 
 Any further information, such as ethics application, PIS, data can be found on Figshare via 
 
-_Hughes-Noehrer, Lukas; Stewart, Andrew; Fortunato, Laura; Henderson, Emma; Farran, Emily (2023): UK Reproducibility Network (UKRN) Open and Transparent Research Practices Survey I. University of Manchester. Online resource._ https://doi.org/10.48420/22094216.v3
+_Hughes-Noehrer, Lukas; Stewart, Andrew; Fortunato, Laura; Henderson, Emma; Farran, Emily (2023): UK Reproducibility Network (UKRN) Open and Transparent Research Practices Survey I. University of Manchester. Online resource._ https://doi.org/10.48420/22094216.v7
